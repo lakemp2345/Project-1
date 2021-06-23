@@ -8,8 +8,8 @@ We took the Billboard Hot 100 charts from the first week of 2016 up until the pr
 
 ### Spotify Audio Features
 
-1. Danceability: how danceable songs are
-2. Energy: 
+1. Danceability
+2. Energy
 3. Instrumentalness
 4. Liveness
 5. Valence
@@ -19,4 +19,5 @@ We took the Billboard Hot 100 charts from the first week of 2016 up until the pr
 
 ## Findings
 
-
+![image](https://user-images.githubusercontent.com/68654923/123173531-be492600-d44c-11eb-8bec-2d98d3d3c832.png)
+![image](https://user-images.githubusercontent.com/68654923/123173563-c903bb00-d44c-11eb-9592-3484d98bd24a.png)
