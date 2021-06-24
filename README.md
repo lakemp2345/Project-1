@@ -33,6 +33,9 @@ We also found that the duration of songs decreased significantly.
 
 ![Duration](https://user-images.githubusercontent.com/68654923/123184170-23a71200-d461-11eb-857f-1bd7c6773c41.png)
 
+The following table shows the statistical analysis of song duration
+
+![Screen Shot 2021-06-23 at 8 52 48 PM](https://user-images.githubusercontent.com/82190227/123185901-f9575380-d464-11eb-879b-2c38df0b9a6a.png)
 
 The audio features showed an interesting spike or slump in December compared to the rest of the year. 
 
