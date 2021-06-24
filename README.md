@@ -13,14 +13,14 @@ We took the Billboard Hot 100 charts from the first week of 2016 up until the pr
 
 ### Spotify Audio Features
 
-1. Danceability
-2. Energy
-3. Instrumentalness
-4. Liveness
-5. Valence
-6. Acousticness
-7. Tempo
-8. Duration
+1. Danceability - describes how suitable a track is for dancing
+2. Energy - is a measure of intensity and activity 
+3. Instrumentalness - predicts whether a track contains no vocals
+4. Liveness - detects the presence of an audience
+5. Valence - a measure describing the mood
+6. Acousticness - lack of electrical amplification
+7. Tempo - beats per minute (bpm)
+9. Duration - length of song
 
 ## Findings
 
